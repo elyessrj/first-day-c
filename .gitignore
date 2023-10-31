@@ -16,4 +16,5 @@
 *.out
 *.app
 
-.test
+#ignore le fichier test 
+test
